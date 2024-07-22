@@ -30,6 +30,17 @@ Various machine learning models are employed to generate accurate fertilizer rec
 
 Additionally, all model hyperparameters are finely tuned using Optuna, an advanced optimization framework, to ensure optimal performance.
 
+| Model | Precision Macro average (%) | Recall Macro average (%) | F1-Score Macro average (%) | Accuracy (%) |
+|:-----------:|:------------:|:------------:|:-----------:|:-----------:|
+| [XGBoost Classification](https://github.com/leon7731/Agricultural-Fertilizer-Recommendation/tree/main/XGBoost) | 97 | 97 | 97 | 97 |
+| [CatBoost Classification](https://github.com/leon7731/Agricultural-Fertilizer-Recommendation/tree/main/CatBoost) | 96 | 96 | 96 | 96 |
+| [Random Forest Classification](https://github.com/leon7731/Agricultural-Fertilizer-Recommendation/tree/main/Random%20Forest) | 96 | 96 | 96 | 96 |
+| [KNN Classification](https://github.com/leon7731/Agricultural-Fertilizer-Recommendation/tree/main/KNN) | 96 | 96 | 96 | 96 |
+| [Decision Tree Classification](https://github.com/leon7731/Agricultural-Fertilizer-Recommendation/tree/main/Decision%20Tree) | 95 | 95 | 95 | 95 |
+| [Multi-Layer Perceptrons Classification](https://github.com/leon7731/Agricultural-Fertilizer-Recommendation/tree/main/MLP%20Classifier) | 89 | 89 | 89 | 89 |
+| [SVM Classification](https://github.com/leon7731/Agricultural-Fertilizer-Recommendation/tree/main/SVM) | 86 | 85 | 83 | 85 |
+| [AdaBoost Classification](https://github.com/leon7731/Agricultural-Fertilizer-Recommendation/tree/main/AdaBoost) | 17 | 25 | 19 | 25 |
+
 # Conclusion
 
 Accurate fertilizer recommendation is essential for the success of modern agriculture. It enables farmers to make informed decisions, optimize nutrient management, mitigate risks, and enhance sustainability. By leveraging comprehensive datasets and advanced analytical tools, farmers and agricultural experts can significantly improve production efficiency, soil health, and crop profitability. Ultimately, this approach ensures food security and fosters environmental stewardship within the agricultural sector.
