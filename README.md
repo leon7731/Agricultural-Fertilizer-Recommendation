@@ -1,3 +1,6 @@
+
+<img align="top" width="80%" align="right" alt="Logo" src="https://drive.google.com/uc?export=view&id=1gngUiyEZcCaIvqHVn9yN5ZhdIiemiwpq"/>
+
 # Introduction
 
 In the realm of modern agriculture, the recommendation of appropriate fertilizers is indispensable, particularly with the increasing shift towards data-driven methodologies. Accurate fertilizer recommendations rely on comprehensive datasets that include soil nutrient composition, crop requirements, environmental factors, and historical fertilization practices. Analyzing and interpreting these datasets provide invaluable insights, which are crucial for optimizing fertilizer usage, enhancing crop productivity, and ensuring sustainable agricultural practices.
