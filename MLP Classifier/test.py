@@ -136,7 +136,7 @@ def apply_auto_ordinal_encoding(df: pd.DataFrame, columns_to_encode: list[str]) 
     
     return df_encoded
 
-# Example usage:
+:
 df_encoded_eda = apply_auto_ordinal_encoding(df, ['Soil_color', 'Crop', 'Fertilizer', ])
 df_encoded_eda.head()
 import pandas as pd
@@ -185,8 +185,7 @@ def heatmap_correlations(df: pd.DataFrame, targetVariable:str ,colorscale:str="V
 
 
 
-# Example usage
-# heatmap_correlations(df, targetVariable="Class", colorscale='RdYlGn')
+)
 heatmap_correlations(df_encoded_eda, targetVariable="Fertilizer", colorscale='RdYlGn')
 
 """
@@ -357,7 +356,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
 
-# Function to create a detailed confusion matrix
+
 def Confusion_Matrix_For_Multi_Class_With_Overview(title, y_test, y_pred):
     """
     Create a confusion matrix for multi-class classification with detailed overview.
